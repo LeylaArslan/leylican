@@ -9,6 +9,10 @@ public class C02 {
         System.out.println("leyla");
         System.out.println("leyla");
         System.out.println("leyla");
-        System.out.println("leyla");
+        System.out.println("fikret");
+        System.out.println("fikret");
+        System.out.println("fikret");
+        System.out.println("fikret");
+        System.out.println("fikret");
     }
 }
