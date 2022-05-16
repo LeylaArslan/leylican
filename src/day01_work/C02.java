@@ -11,21 +11,6 @@ public class C02 {
         System.out.println("leyla2");
         System.out.println("leyla2");
         System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
-        System.out.println("leyla2");
+
     }
 }
